@@ -1,2 +1,3 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Mon nom est Sébastien Moreau. Je suis un ingénieur en informatique, passionné par le parapente, l'entrepreneuriat et la programmation. Je suis originaire de Nantes, en France, mais j'habite maintenant au Pallet, un peu au sud de Nantes, depuis 2020.
+J'aime le fromage, la course à pied, la météorologie, voyager. Avec ma conjointe nous avons d'ailleurs passé deux ans à Montréal de 2016 à 2018.
+Je souhaite devenir AI Architect, créer des systèmes agentic pour répondre aux besoins des entreprises
